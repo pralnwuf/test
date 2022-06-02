@@ -1,0 +1,1 @@
+select * from Access where Shared_To = 'kevin.gilbert@dcaasolutions.net'
